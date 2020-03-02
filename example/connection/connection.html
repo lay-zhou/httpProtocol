@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Connection</title>
+        <style>
+            img {
+                width: 100px;
+                height: 100px;
+            }
+        </style>
+        <script>
+            var t1 = new Date().getTime(); 
+        </script>
+    </head>
+    <body>
+        <div>http/1.1协议</div>
+        <div id="TimeShow">页面开始加载</div> 
+        <script>
+            var timer = setInterval(function() {
+                document.getElementById("TimeShow").innerHTML = "耗时: " + ((new Date().getTime()-t1) / 1000).toFixed(2) + '秒';
+            }, 4);
+
+            window.onload = function() { 
+                clearInterval(timer);
+            } 
+        </script>
+        1
+        <img src="/test_img.jpg" alt="" />
+        2
+        <img src="/test_img.jpg" alt="" />
+        3
+        <img src="/test_img.jpg" alt="" />
+        4
+        <img src="/test_img.jpg" alt="" />
+        5
+        <img src="/test_img.jpg" alt="" />
+        6
+        <img src="/test_img.jpg" alt="" />
+        7
+        <img src="/test_img.jpg" alt="" />
+        8
+        <img src="/test_img.jpg" alt="" />
+        9
+        <img src="/test_img.jpg" alt="" />
+        10
+        <img src="/test_img.jpg" alt="" />
+        11
+        <img src="/test_img.jpg" alt="" />
+        12
+        <img src="/test_img.jpg" alt="" />
+        13
+        <img src="/test_img.jpg" alt="" />
+        14
+        <img src="/test_img.jpg" alt="" />
+        15
+        <img src="/test_img.jpg" alt="" />
+        16
+        <img src="/test_img.jpg" alt="" />
+        17
+        <img src="/test_img.jpg" alt="" />
+        18
+        <img src="/test_img.jpg" alt="" />
+    </body>
+</html>
