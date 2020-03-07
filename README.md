@@ -1,6 +1,6 @@
 
 
-- [HTTP 简介](#http-%E7%AE%80%E4%BB%8B)
+- [HTTP 简介](#http-%E7%AE%80%E4%BB%8B)
 
   - [HTTP 工作原理](#http-%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)
     - [http 三点注意事项](#http-%E4%B8%89%E7%82%B9%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
