@@ -84,9 +84,7 @@
         - [http自动跳转https](#http%E8%87%AA%E5%8A%A8%E8%B7%B3%E8%BD%AChttps)
       - [实现http2协议](#%E5%AE%9E%E7%8E%B0http2%E5%8D%8F%E8%AE%AE)
 
-
-
-## HTTP 简介
+## HTTP 简介
 http协议是 hyper text transfer protocol 超文本传输协议的缩写，是由于从万维网 （www:world wide web
 ）服务器传输超文本到本地浏览器的传送协议。
 
