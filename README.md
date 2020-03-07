@@ -1,4 +1,7 @@
-  - [HTTP 简介](#%08http-%E7%AE%80%E4%BB%8B)
+
+
+- [HTTP 简介](#http-%E7%AE%80%E4%BB%8B)
+
   - [HTTP 工作原理](#http-%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)
     - [http 三点注意事项](#http-%E4%B8%89%E7%82%B9%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
       - [注释](#%E6%B3%A8%E9%87%8A)
@@ -85,6 +88,7 @@
       - [实现http2协议](#%E5%AE%9E%E7%8E%B0http2%E5%8D%8F%E8%AE%AE)
 
 ## HTTP 简介
+
 http协议是 hyper text transfer protocol 超文本传输协议的缩写，是由于从万维网 （www:world wide web
 ）服务器传输超文本到本地浏览器的传送协议。
 
